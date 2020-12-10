@@ -1,0 +1,5 @@
+apple
+vivo
+oppo
+nokia
+sony
